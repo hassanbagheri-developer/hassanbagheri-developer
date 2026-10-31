@@ -10,7 +10,7 @@
   <a href="https://github.com/hassanbagheri-developer">
     <img src="https://img.shields.io/badge/GitHub-hassanbagheri--developer-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/hassan-bagheri">
+  <a href="https://www.linkedin.com/in/hassan-bagheri">
     <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Bagheri-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hassanbagheri233@gmail.com">
